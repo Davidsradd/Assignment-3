@@ -82,3 +82,5 @@ switch(FishQuestion){
     default:
     alert("Not even close buddy.");
 }
+//consel log
+console.log("I am starting to get more familiar with JavaScript")
